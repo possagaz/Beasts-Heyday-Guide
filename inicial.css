@@ -1,0 +1,38 @@
+body{
+    background-image: url("../Design sem nome.png");
+    background-size: cover;       
+    background-position: center;   
+    background-repeat: no-repeat;  
+    background-attachment: fixed; 
+}
+
+.paragrafo{
+    color: antiquewhite;
+    font-style: italic;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.texto{
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.desc{
+    color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+}
+
+.desc td {
+    text-align: center;     
+    padding: 0 50px;        
+    vertical-align: top;   
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
